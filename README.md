@@ -33,3 +33,17 @@
         </ul>
     </p>
 </ul>
+<h2>Used technologies</h2>
+<h3>Hosting</h3>
+<ul>
+    <li>Hostinger for web hosting</li>
+    <li>Cloudflare for DNS management</li>
+    <li>SSL covers on Cloudflare</li>
+    <li>Zolahost Domain</li>
+</ul>
+<h3>SEO</h3>
+<p>Yoast SEO</p>
+<h3>Built tool</h3>
+<p>WordPress</p>
+<h3>Database</h3>
+<p>MySQL</p>
