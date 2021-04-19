@@ -47,3 +47,5 @@
 <p>WordPress</p>
 <h3>Database</h3>
 <p>MySQL</p>
+<p>PhpMyAdmin</p>
+
