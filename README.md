@@ -49,4 +49,5 @@
 <p>MySQL</p>
 <p>PhpMyAdmin</p>
 <h3>SEO</h3>
-<p>SEO has been done in google, Bing this are the major search engines<p>
+<p>SEO has been done in google, Bing this are the major search engines, Which covers majority users.<p>
+    <p>on My name the SEO was focused the keywords includeded myname,related to protfolios as added<p>
