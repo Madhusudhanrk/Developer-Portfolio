@@ -49,4 +49,4 @@
 <p>MySQL</p>
 <p>PhpMyAdmin</p>
 <h3>SEO</h3>
-<p>SEO has been done<p>
+<p>SEO has been done in google, Bing this are the major search engines<p>
