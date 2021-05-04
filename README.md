@@ -48,4 +48,5 @@
 <h3>Database</h3>
 <p>MySQL</p>
 <p>PhpMyAdmin</p>
-
+<h3>SEO</h3>
+<p>SEO has been done<p>
